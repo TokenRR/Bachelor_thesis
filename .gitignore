@@ -1,0 +1,12 @@
+.venv
+__pycache__
+_GIMP
+_PicWish
+
+desktop.ini
+
+text
+code/_other/Google Drive.zip
+code/data/images
+code/data/raw_images
+code/data/old_images
