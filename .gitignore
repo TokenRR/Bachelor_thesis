@@ -6,6 +6,7 @@ _PicWish
 desktop.ini
 
 text
+code/bot/images
 code/_other/Google Drive.zip
 code/_other/old_images.rar
 code/data/images
@@ -13,3 +14,5 @@ code/data/raw_images
 code/data/old_images
 
 _test.*
+ideas.txt
+.gitignore
